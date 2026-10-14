@@ -7,7 +7,7 @@ Temario
 - [LFPDPPP – México](assets/LFPDPPP–México.md) | [Caso de uso](assets/LFPDPPP–México_casodeuso.md) | [Diagrama](assets/Diagrama_LFPDPPP.png)
 - [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados](assets/LGPDPPSO.md) | [Caso de uso](assets/LGPDPPSO_casodeuso.md) | [Diagrama](assets/Diagrama_LGPDPPSO.jpeg). 
 - Regulación GDPR / RGPD 
-- Regulación EU AI Act.   
+- [Regulación EU AI Act](assets/Regulación_EU_AI_Act.md) | [Caso de uso](assets/Regulación_EU_AI_Act_casodeuso.md) | [Diagrama].   
 - [Principios OECD Privacy Guidelines](assets/PrincipiosOECDPrivacyGuidelines.md) | [Caso de uso](assets/PrincipiosOECDPrivacyGuidelines_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_Privacy_Guidelines.png)
 - [Principios OECD AI Principles](assets/PrincipiosOECDAIPrinciples.md) | [Caso de uso](assets/PrincipiosOECDAIPrinciples_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_AI_Principles.png)
 - ISO/IEC 27001:2022 
