@@ -5,7 +5,7 @@ Este repositorio reúne principios, prácticas, referencias y recursos orientado
 Temario
 
 - [LFPDPPP – México](assets/LFPDPPP–México.md) | [Caso de uso](assets/LFPDPPP–México_casodeuso.md) | [Diagrama](assets/Diagrama_LFPDPPP.png)
-- [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados](assets/LGPDPPSO.md) | [Caso de uso] | [Diagrama]. 
+- [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados](assets/LGPDPPSO.md) | [Caso de uso](assets/LGPDPPSO_casodeuso.md) | [Diagrama]. 
 - Regulación GDPR / RGPD 
 - Regulación EU AI Act.   
 - [Principios OECD Privacy Guidelines](assets/PrincipiosOECDPrivacyGuidelines.md) | [Caso de uso](assets/PrincipiosOECDPrivacyGuidelines_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_Privacy_Guidelines.png)
