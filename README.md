@@ -10,8 +10,7 @@ Temario
 - [Regulación EU AI Act](assets/Regulación_EU_AI_Act.md) | [Caso de uso](assets/Regulación_EU_AI_Act_casodeuso.md) | [Diagrama].   
 - [Principios OECD Privacy Guidelines](assets/PrincipiosOECDPrivacyGuidelines.md) | [Caso de uso](assets/PrincipiosOECDPrivacyGuidelines_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_Privacy_Guidelines.png)
 - [Principios OECD AI Principles](assets/PrincipiosOECDAIPrinciples.md) | [Caso de uso](assets/PrincipiosOECDAIPrinciples_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_AI_Principles.png)
-- ISO/IEC 27001:2022 
-- ISO/IEC 27701:2025 
+- ISO/IEC 27701:2025 [ISO-27001.md](https://github.com/user-attachments/files/33908470/ISO-27001.md)
 - ISO/IEC 27018:2025 
 - ISO/IEC 42001:2023 
 - ISO/IEC 23894:2023 
