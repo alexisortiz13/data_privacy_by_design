@@ -2,8 +2,6 @@
 # Casos de uso — ISO 31700-1:2023
 
 **Norma:** Privacidad desde el diseño  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG  
 **Categoría:** Protección de datos personales
 
 ---
@@ -147,13 +145,3 @@ Cuando participen menores de edad, deben considerarse las obligaciones legales d
 Referencia oficial: https://www.iso.org/standard/84977.html
 
 ---
-
-## Conclusión
-
-Los casos 18 y 19 muestran cómo la privacidad debe incorporarse desde las primeras etapas del desarrollo de productos y servicios digitales.
-
-La ISO 31700-1:2023 proporciona un marco para considerar la protección de datos personales durante el diseño de soluciones tecnológicas dirigidas a consumidores.
-
-Los escenarios podrán utilizarse posteriormente como preguntas de evaluación del Harness LLM RAG, especialmente en temas de minimización de datos, configuraciones protectoras y gestión responsable de información personal.
-
-**Nota académica:** Los casos son escenarios hipotéticos y las medidas propuestas representan aplicaciones prácticas de privacidad desde el diseño, no transcripciones literales de requisitos normativos.
