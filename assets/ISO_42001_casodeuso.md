@@ -1,9 +1,7 @@
 
 # Casos de uso — ISO/IEC 42001:2023
 
-**Norma:** Sistema de Gestión de Inteligencia Artificial  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG  
+**Norma:** Sistema de Gestión de Inteligencia Artificial    
 **Categoría:** Inteligencia Artificial
 
 ---
