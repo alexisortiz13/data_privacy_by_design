@@ -217,13 +217,3 @@ ISO/IEC 42001:2023 — Sistema de Gestión de Inteligencia Artificial.
 Referencia oficial: https://www.iso.org/standard/42001
 
 ---
-
-## Conclusión
-
-Los cuatro casos muestran la importancia de establecer mecanismos de gestión y supervisión para los sistemas de inteligencia artificial utilizados en procesos de alto impacto.
-
-La ISO/IEC 42001:2023 proporciona un marco de gestión para abordar responsabilidades, riesgos y oportunidades asociados con la inteligencia artificial.
-
-Estos casos también servirán como escenarios de evaluación para el proyecto Harness LLM RAG de la materia Legalidad y Protección de la Información.
-
-**Nota académica:** Los casos son escenarios hipotéticos. Las medidas propuestas ilustran la aplicación de un sistema de gestión de IA y no constituyen transcripciones literales de requisitos específicos de la norma.
