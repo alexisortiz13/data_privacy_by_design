@@ -2,8 +2,6 @@
 # Casos de uso — ISO/IEC 27018:2025
 
 **Norma:** Protección de información personal en servicios de nube pública  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG
 
 ---
 
@@ -145,13 +143,3 @@ ISO/IEC 27018:2025 — Protección de información personal en servicios de nube
 Referencia oficial: https://www.iso.org/standard/27018
 
 ---
-
-## Conclusión
-
-Los tres casos de uso muestran situaciones relacionadas con la exposición, el acceso y la eliminación de información personal en servicios de nube pública.
-
-La ISO/IEC 27018:2025 constituye una referencia para establecer prácticas de protección de datos personales en este entorno.
-
-Estos escenarios podrán incorporarse posteriormente al corpus del proyecto Harness LLM RAG para evaluar respuestas sobre privacidad, seguridad y responsabilidades de los proveedores.
-
-**Nota académica:** Los escenarios son hipotéticos y las medidas descritas son propuestas de aplicación. No constituyen transcripciones de requisitos específicos de la norma.
