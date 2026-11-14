@@ -94,13 +94,3 @@ Referencia de consulta: https://www.iso.org/standard/87195.html
 INEGI. *Datos como bien público: resguardo, privacidad y límites de uso*. Material de estudio de la asignatura Legalidad y Protección de la Información.
 
 ---
-
-## Conclusión
-
-Este caso de uso demuestra la importancia de establecer responsabilidades y mecanismos de supervisión sobre los datos utilizados por instituciones públicas.
-
-La gobernanza permite alinear las decisiones sobre información con los objetivos institucionales y considerar riesgos relacionados con calidad, privacidad, seguridad y cumplimiento normativo.
-
-El escenario también servirá para evaluar la capacidad del futuro agente Harness LLM RAG de identificar responsabilidades, analizar riesgos y proponer medidas fundamentadas.
-
-**Nota académica:** El caso es hipotético. Las medidas son propuestas prácticas de gobernanza y no transcripciones literales de requisitos específicos de la norma.
