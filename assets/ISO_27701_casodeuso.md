@@ -2,8 +2,6 @@
 # Casos de uso — ISO/IEC 27701:2025
 
 **Norma:** Gestión de información de privacidad  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG
 
 ---
 
