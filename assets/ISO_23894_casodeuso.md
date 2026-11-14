@@ -1,9 +1,7 @@
 
 # Casos de uso — ISO/IEC 23894:2023
 
-**Norma:** Gestión de riesgos de Inteligencia Artificial  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG  
+**Norma:** Gestión de riesgos de Inteligencia Artificial    
 **Categoría:** Inteligencia Artificial
 
 ---
@@ -180,17 +178,3 @@ Referencia oficial: https://www.iso.org/standard/77304.html
 https://genai.owasp.org/
 
 ---
-
-## Conclusión
-
-Los tres casos de uso presentan riesgos relevantes asociados con la inteligencia artificial:
-
-1. Sesgos en modelos predictivos.
-2. Errores en sistemas automatizados de detección de fraude.
-3. Manipulación de agentes mediante instrucciones maliciosas.
-
-La ISO/IEC 23894:2023 proporciona orientación para integrar la gestión de riesgos en las actividades relacionadas con sistemas de inteligencia artificial.
-
-Estos escenarios también permitirán evaluar el futuro Harness LLM RAG mediante preguntas sobre identificación de riesgos, medidas de tratamiento y seguridad de sistemas agénticos.
-
-**Nota académica:** Los escenarios son hipotéticos. Las medidas propuestas representan aplicaciones prácticas de gestión de riesgos y no transcripciones literales de requisitos específicos de la norma.
