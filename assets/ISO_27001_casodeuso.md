@@ -2,8 +2,6 @@
 # Casos de uso — ISO/IEC 27001:2022
 
 **Norma:** Seguridad de la información  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG
 
 ---
 
