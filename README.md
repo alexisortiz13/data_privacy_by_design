@@ -10,13 +10,13 @@ Temario
 - [Regulación EU AI Act](assets/Regulación_EU_AI_Act.md) | [Caso de uso](assets/Regulación_EU_AI_Act_casodeuso.md) | [Diagrama].   
 - [Principios OECD Privacy Guidelines](assets/PrincipiosOECDPrivacyGuidelines.md) | [Caso de uso](assets/PrincipiosOECDPrivacyGuidelines_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_Privacy_Guidelines.png)
 - [Principios OECD AI Principles](assets/PrincipiosOECDAIPrinciples.md) | [Caso de uso](assets/PrincipiosOECDAIPrinciples_casodeuso.md) | [Diagrama](assets/Diagrama_Principios_OECD_AI_Principles.png)
-- ISO/IEC 27001:2022 -
-- ISO/IEC 27701:2025 
-- ISO/IEC 27018:2025 
-- ISO/IEC 42001:2023 
-- ISO/IEC 23894:2023 
-- ISO/IEC 31700-1:2023
-- ISO/IEC 38505-1:2026
+- [ISO/IEC 27001:2022](assets/ISO_27001.md) | [Casos de uso (4)](assets/ISO_27001_casodeuso.md)
+- [ISO/IEC 27701:2025](assets/ISO_27701.md) | [Casos de uso (3)](assets/ISO_27701_casodeuso.md)
+- [ISO/IEC 27018:2025](assets/ISO_27018.md) | [Casos de uso (3)](assets/ISO_27018_casodeuso.md)
+- [ISO/IEC 42001:2023](assets/ISO_42001.md) | [Casos de uso (4)](assets/ISO_42001_casodeuso.md)
+- [ISO/IEC 23894:2023](assets/ISO_23894.md) | [Casos de uso (3)](assets/ISO_23894_casodeuso.md)
+- [ISO 31700-1:2023](assets/ISO_31700.md) | [Casos de uso (2)](assets/ISO_31700_casodeuso.md)
+- [ISO/IEC 38505-1:2026](assets/ISO_38505.md) | [Caso de uso (1)](assets/ISO_38505_casodeuso.md)
 - NIST Privacy Framework 
 - NIST AI RMF 1.0 
 - NIST AI 600-1 – GenAI Profile 
