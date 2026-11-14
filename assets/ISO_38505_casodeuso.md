@@ -2,8 +2,6 @@
 # Casos de uso — ISO/IEC 38505-1:2026
 
 **Norma:** Gobernanza de datos  
-**Materia:** Legalidad y Protección de la Información  
-**Proyecto:** Corpus para Harness LLM RAG  
 **Categoría:** Gobernanza y protección de datos
 
 ---
